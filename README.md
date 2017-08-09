@@ -1,5 +1,7 @@
 ## crossbeam_pool
 
+**ABANDONED in favor of [scoped-threadpool-rs](https://github.com/Kimundi/scoped-threadpool-rs).**
+
 crossbeam_pool is a set of [crossbeam](https://github.com/crossbeam-rs/crossbeam) scoped threads.
 It has been primarily developed to be used as a thread pool for [Terra](https://github.com/younisshah/terra)
 to handle incoming Geofence WebSocket connections.
